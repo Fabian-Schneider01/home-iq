@@ -11,7 +11,7 @@ export default function HomeScreen() {
   const isDark = colorScheme === 'dark';
 
   const sceneBackgroundColor = isDark
-    ? '#1b1d21'
+    ? '#1c1f21'
     : 'hsla(207, 15%, 94%, 1)';
 
   return (
