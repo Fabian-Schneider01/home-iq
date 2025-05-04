@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "QV3RwpDVIt0=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\xfsch\\software_development\\app_development\\home-iq\\server\\HomeIq\\HomeIq\\HomeIq.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Das Paket \"Swashbuckle.AspNetCore\" wurde nicht gefunden. Es sind keine Pakete mit dieser ID in folgenden Quellen vorhanden: Microsoft Visual Studio Offline Packages",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
